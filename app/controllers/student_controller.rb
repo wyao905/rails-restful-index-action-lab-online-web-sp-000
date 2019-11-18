@@ -1,5 +1,5 @@
 class StudentController < ApplicationController
   def show
-    render "page"
+    render "index"
   end
 end
